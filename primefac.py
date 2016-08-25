@@ -413,10 +413,6 @@ def multiples(a, b):
 def modinv(n, mod):
     #input: a number and it's modulus
     #output: the modular inverse
-    if False == True :
-    print "ERROR: inputs are not relativly prime"
-        return 0
-    else:
     x, y = multiples(n, mod)
     return x % mod
 
