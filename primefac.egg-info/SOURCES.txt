@@ -1,6 +1,5 @@
 DESCRIPTION.rst
 MANIFEST.in
-README.rst
 primefac.py
 setup.cfg
 setup.py

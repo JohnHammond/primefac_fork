@@ -48,9 +48,12 @@ Below is the proper documentation for the [`primefac`][primefac] module.
 >  - A new function ``factorint`` is added with the same argument structure as the ``primefac`` generator, minus the ``verbose`` option.  This collates ``primefac``'s output into a dict with the prime factors as the keys and their multiplicities as the data.  For example, ``factorint(5040)`` returns ``{2:4, 3:2, 5:1, 7:1}``.
 >  - 
 >  __Author__: lucasbrown.cit
-__Maintainer__: lucasbrown.cit
-__Home Page__: https://pypi.python.org/pypi/primefac
-__License__: MIT 
+>  
+> __Maintainer__: lucasbrown.cit
+> 
+> __Home Page__: https://pypi.python.org/pypi/primefac
+> 
+> __License__: MIT 
 
 
 [Python]: http://python.org/
